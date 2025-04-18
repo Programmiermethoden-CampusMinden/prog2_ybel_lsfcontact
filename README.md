@@ -12,7 +12,7 @@ This represents the student support code for the [LSF Contact task].
 
 This [work] by [Carsten Gips] and [contributors] is licensed under [MIT].
 
-  [LSF Contact task]: https://github.com/Programmiermethoden-CampusMinden/Prog2-Lecture/blob/master/homework/b05.md
+  [LSF Contact task]: https://github.com/Programmiermethoden-CampusMinden/Prog2-Lecture/tree/master/homework
   [work]: https://github.com/Programmiermethoden-CampusMinden/prog2_ybel_lsfcontact
   [Carsten Gips]: https://github.com/cagix
   [contributors]: https://github.com/Programmiermethoden-CampusMinden/prog2_ybel_lsfcontact/graphs/contributors
