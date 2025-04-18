@@ -21,7 +21,7 @@ public class LsfContactUtil {
      */
     public static void emailStudents(List<Student> sl) {
         for (Student s : sl) {
-            if (s.getEmail() != "") {
+            if (!s.getEmail().isEmpty()) {
                 email(s);
             }
         }
@@ -37,7 +37,7 @@ public class LsfContactUtil {
      */
     public static void phoneStudents(List<Student> sl) {
         for (Student s : sl) {
-            if (s.getPhone() != "") {
+            if (!s.getPhone().isEmpty()) {
                 phone(s);
             }
         }
@@ -53,7 +53,7 @@ public class LsfContactUtil {
      */
     public static void writeStudents(List<Student> sl) {
         for (Student s : sl) {
-            if (s.getAddress() != "") {
+            if (!s.getAddress().isEmpty()) {
                 write(s);
             }
         }
